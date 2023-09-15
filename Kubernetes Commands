@@ -1,4 +1,7 @@
-kubernetes installation:- apt-get update && apt-get install -y apt-transport-https
+kubernetes installation:- 
+
+
+apt-get update && apt-get install -y apt-transport-https
     5  sudo apt update
     6  sudo apt -y install curl apt-transport-https
     7  curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
